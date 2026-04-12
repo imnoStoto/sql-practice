@@ -1,0 +1,38 @@
+
+# OS 
+
+.DS_Store
+Thumbs.db
+
+
+# vscode settings 
+
+.vscode/
+
+
+# logs
+
+*.log
+
+
+# environment
+
+.env
+
+
+# python 
+
+__pycache__/
+*.pyc
+
+
+# databse and temp files
+
+*.db
+*.bak
+*.tmp
+
+
+# sql server data
+
+sql_data/
