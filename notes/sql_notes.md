@@ -13,3 +13,12 @@
 - forgetting WHERE quotes
 - typos, especially in column name
 - wrong JOIN condition
+
+# query types
+
+- FROM
+- JOIN
+- WHERE
+- GROUP BY
+- SELECT
+- ORDER BY
